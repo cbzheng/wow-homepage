@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Chengbo Zheng (郑成博)
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D. Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Hong Kong University of Science and Technology
+  url: "https://hkust.edu.hk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I'm a Ph.D. candidate at Hong Kong University of Science and Technology (HKUST). I am doing research around Human-Computer Interaction under the supervision of [Prof. Xiaojuan Ma](https://www.cse.ust.hk/~mxj/). My research interests include Human-AI collaboration and information visualization. Before my Ph.D. study, I graduated from Zhejiang University, majoring in computer science.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -23,21 +23,21 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'cb.zheng@connect.ust.hk'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/chengbo_zheng
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=YYZlrmcAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/cbzheng
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/uploads/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: uploads/resume.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
