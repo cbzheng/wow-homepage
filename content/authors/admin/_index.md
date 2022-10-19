@@ -14,7 +14,7 @@ organizations:
   url: "https://hkust.edu.hk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a Ph.D. candidate at Hong Kong University of Science and Technology (HKUST). I am doing research around Human-Computer Interaction under the supervision of [Prof. Xiaojuan Ma](https://www.cse.ust.hk/~mxj/). My research interests include Human-AI collaboration and information visualization. Before my Ph.D. study, I graduated from Zhejiang University, majoring in computer science.
+bio: My research interests include Human-AI collaboration and information visualization.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

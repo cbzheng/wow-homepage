@@ -12,6 +12,4 @@ design:
   columns: '1'
 ---
 
-Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-**Specialties:** Analytics & Data, Leadership, Programming, Strategic Planning, Writing & Editing
+I'm a Ph.D. candidate at Hong Kong University of Science and Technology (HKUST). I am doing research around Human-Computer Interaction under the supervision of [Prof. Xiaojuan Ma](https://www.cse.ust.hk/~mxj/). My research interests include Human-AI collaboration and information visualization. Before my Ph.D. study, I graduated from Zhejiang University, majoring in computer science.
