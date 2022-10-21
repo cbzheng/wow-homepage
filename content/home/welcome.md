@@ -12,4 +12,4 @@ design:
   columns: '1'
 ---
 
-I'm a Ph.D. candidate at Hong Kong University of Science and Technology (HKUST). I am doing research around Human-Computer Interaction under the supervision of [Prof. Xiaojuan Ma](https://www.cse.ust.hk/~mxj/). My research interests include Human-AI collaboration and information visualization. Before my Ph.D. study, I graduated from Zhejiang University, majoring in computer science.
+I'm a Ph.D. candidate at the Hong Kong University of Science and Technology (HKUST). I am doing research on Human-Computer Interaction under the supervision of [Prof. Xiaojuan Ma](https://www.cse.ust.hk/~mxj/). My research interests include Human-AI collaboration and information visualization. Before my Ph.D. study, I graduated from Chu Kochen Honors College, Zhejiang University, majoring in computer science. 
