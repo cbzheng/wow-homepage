@@ -10,11 +10,11 @@ role: Ph.D. Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Hong Kong University of Science and Technology
+- name: The Hong Kong University of Science and Technology
   url: "https://hkust.edu.hk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Human-AI collaboration and information visualization.
+bio: I am a Phd candidate studying human-AI interaction in HKUST.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

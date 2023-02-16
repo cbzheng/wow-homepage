@@ -17,7 +17,7 @@ image:
   focal_point: ""
   preview_only: false
 publication: In *IEEE VIS 2020*
-publication_short: In *VIS*
+publication_short: In *VIS 2020*
 publication_types:
 - "1"
 publishDate: "2020-10-01T00:00:00Z"

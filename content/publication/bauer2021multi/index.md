@@ -13,7 +13,7 @@ image:
   focal_point: ""
   preview_only: false
 publication: ""
-publication_short: ""
+publication_short: "Arxiv"
 publication_types:
 - "3"
 summary: Interactive immersive visualization of network data through a multi-layout approach.

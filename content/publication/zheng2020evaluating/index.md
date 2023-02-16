@@ -12,7 +12,7 @@ image:
   focal_point: ""
   preview_only: false
 publication: In *IEEE PacificVis 2022*
-publication_short: In *STC*
+publication_short: In *PacificVis 2022*
 publication_types:
 - "1"
 publishDate: "2022-04-11T00:00:00Z"
@@ -21,6 +21,7 @@ tags:
 - Visualization
 title: Evaluating the Effect of Enhanced Text-Visualization Integration on Combating Misinformation in Data Story
 url_pdf: https://arxiv.org/pdf/2205.11911.pdf
+summary: An empirical study investigating the possibility of different interface designs in raising people's awareness of misinformation in data stories.
 ---
 
 <!-- {{% callout note %}}
