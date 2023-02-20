@@ -32,12 +32,12 @@ tags:
 title: "Competent but Rigid: Identifying the Gap in Empowering AI to Participate Equally in Group Decision-Making"
 # url_code: '#'
 # url_dataset: '#'
-# url_pdf: https://arxiv.org/pdf/2203.11085.pdf
+url_pdf: https://arxiv.org/pdf/2302.08807.pdf
 # url_poster: '#'
 # url_project: ""
 # url_slides: "https://drive.google.com/file/d/1FZBdNhATgIoQozSJtWnpvchaN7lDWpdP/view?usp=sharing"
 # url_source: '#'
-# url_video: 'https://www.youtube.com/watch?v=qdvOmxoLdvc'
+url_video: 'https://youtu.be/HNMfEOUwTgU'
 ---
 <!-- 
 {{% callout note %}}

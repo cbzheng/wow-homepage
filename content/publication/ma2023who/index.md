@@ -32,7 +32,7 @@ tags:
 title: "Who Should I Trust: AI or Myself? Leveraging Human and AI Correctness Likelihood to Promote Appropriate Trust in AI-Assisted Decision-Making"
 # url_code: '#'
 # url_dataset: '#'
-# url_pdf: https://arxiv.org/pdf/2203.11085.pdf
+url_pdf: https://arxiv.org/pdf/2301.05809.pdf
 # url_poster: '#'
 # url_project: ""
 # url_slides: "https://drive.google.com/file/d/1FZBdNhATgIoQozSJtWnpvchaN7lDWpdP/view?usp=sharing"
