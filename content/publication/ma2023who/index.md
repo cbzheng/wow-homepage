@@ -9,7 +9,7 @@ authors:
 - Ming Yin
 - Xiaojuan Ma
 date: "2023-01-01T00:00:00Z"
-# doi: "https://doi.org/10.1145/3491102.3517615"
+doi: "https://doi.org/10.1145/3544548.3581058"
 featured: true
 image:
   caption: 'NB2Slides'
@@ -20,8 +20,8 @@ image:
 #   url: http://example.org
 # projects:
 # - internal-project
-publication: To appear in *ACM CHI 2023*
-publication_short: To appear in *CHI23*
+publication: In *ACM CHI 2023*
+publication_short: In *CHI23*
 publication_types:
 - "1"
 publishDate: "2023-01-01T00:00:00Z"
